@@ -1,0 +1,6 @@
+data/
+*.zip
+*.h5
+*.pt
+__pycache__/
+.env
